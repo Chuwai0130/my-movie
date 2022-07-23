@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    @apply bg-slate-700
+}
+
+.menu-card {
+    @apply shadow-2xl  max-w-[1240px] w-full mx-auto
+}
